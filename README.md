@@ -7,7 +7,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
-  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br>
 
 - 🔭 I’m currently working on [snake game](https://github.com/nishagii/snakeGame.git)
 
