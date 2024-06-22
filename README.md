@@ -26,7 +26,22 @@
 </p>
 
 <hr>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Languages :</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,py,java,javascript,mongodb,express,php,react,nodejs,scala,bootstrap,dart" />
+  </a>
+</p>
+<h3 align="left">Tools :</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,arduino,linux,ps,ai,vscode,discord,visualstudio,wordpress,stackoverflow,aws,azure,bash,docker,figma,flutter,kafka" />
+  </a>
+</p>
+<br/>
+
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishagi jeewantha" height="30" width="40" /></a>
 <a href="https://fb.com/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishagi jeewantha" height="30" width="40" /></a>
@@ -36,19 +51,6 @@
 <a href="https://www.hackerearth.com/nishagee jeewantha @jeewanthadehera1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nishagee jeewantha @jeewanthadehera1" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,py,java,javascript,mongodb,express,php,react,nodejs,scala,bootstrap,dart" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,arduino,linux,ps,ai,vscode,discord,visualstudio,wordpress,stackoverflow,aws,azure,bash,docker,figma,flutter,kafka" />
-  </a>
-</p>
-<br/>
 
 
 
