@@ -40,13 +40,14 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,py,javascript,mongodb,express,php,react,nodejs,scala,rust" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,py,java,javascript,mongodb,express,php,react,nodejs,scala,bootstrap,dart" />
   </a>
 </p>
 
-- Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,linux,ps,vscode,discord,visualstudio,wordpress,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,powershell,arduino,linux,ps,vscode,discord,visualstudio,wordpress,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,powershell,arduino,linux,ps,ai,vscode,discord,visualstudio,wordpress,stackoverflow,aws,azure,bash,docker,figma,flutter,kafka" />
   </a>
 </p>
 <br/>
