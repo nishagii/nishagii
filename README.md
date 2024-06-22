@@ -41,16 +41,17 @@
 </p>
 <br/>
 
+<hr>
+
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishagi jeewantha" height="30" width="40" /></a>
-<a href="https://fb.com/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishagi jeewantha" height="30" width="40" /></a>
-<a href="https://instagram.com/nisha_gii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nisha_gii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nishagee jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nishagee jeewantha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishagi jeewantha" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/nishagee jeewantha @jeewanthadehera1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nishagee jeewantha @jeewanthadehera1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishagi jeewantha" height="40" width="50" /></a>
+<a href="https://fb.com/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishagi jeewantha" height="40" width="50" /></a>
+<a href="https://instagram.com/nisha_gii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nisha_gii" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/nishagee jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nishagee jeewantha" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishagi jeewantha" height="40" width="50" /></a>
+<a href="https://www.hackerearth.com/nishagee jeewantha @jeewanthadehera1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nishagee jeewantha @jeewanthadehera1" height="40" width="50" /></a>
 </p>
-<hr>
 
 
 
