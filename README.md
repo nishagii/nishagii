@@ -2,7 +2,7 @@
 , I'm Nishagi Jeewantha</h1>
 
 
-<h3 align="center">Passionated in Data Engineering and Cloud tech</h3>
+<h3 align="center">Passionatedrftt in Data Engineering and Cloud tech</h3>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
