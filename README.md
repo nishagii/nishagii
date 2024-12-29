@@ -9,9 +9,9 @@
 
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br>
 
-- 🔭 I’m currently working on [snake game](https://github.com/nishagii/snakeGame.git)
+- 🔭 I’m currently working on [Apple Stock Market Price Prediction Project]([https://github.com/nishagii/](https://github.com/nishagii/Apple_stock_price_prediction))
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Data Engineering and Analytics ,ML,REACT and Java(SpringBoot)**
 
 - 📫 How to reach me **jeewanthadeherath04gmail.com**
 
