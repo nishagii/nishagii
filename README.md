@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jeewanthadeherath04gmail.com**
 
-- ⚡ Fun fact **call me njd**
+- ⚡ Fun fact **call me nisha**
 
   <br>
   <hr>
