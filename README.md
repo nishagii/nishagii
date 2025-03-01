@@ -9,7 +9,7 @@
 
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br>
 
-- 🔭 I’m currently working on [Predictive Model for Real state properties using Linear Regression](https://github.com/nishagii/Real-state-price-prediction-using-Machine-Learning)
+- 🔭 I’m currently working on [Predictive Model for Real State Property Prices Prediction using Linear Regression](https://github.com/nishagii/Real-state-price-prediction-using-Machine-Learning)
 
 - 🌱 I’m currently learning **Data Engineering and Analytics ,ML,REACT and Java(SpringBoot)**
 
