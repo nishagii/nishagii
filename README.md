@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Predictive Model for Real State Property Prices Prediction using Linear Regression](https://github.com/nishagii/Real-state-price-prediction-using-Machine-Learning)
 
-- 🌱 I’m currently learning **Data Science and Analytics ,ML,REACT and Java(SpringBoot)**
+- 🌱 I’m currently learning **Data Science** , **Java**(**SpringBoot**), **AI**, **ML** and **REACT**
 
 - 📫 How to reach me **jeewanthadeherath04gmail.com**
 
@@ -31,13 +31,13 @@
 <h3 align="left">Languages :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,py,java,javascript,mongodb,express,php,react,nodejs,scala,bootstrap,dart" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,java,spring,react,express,nodejs,mongodb,deno,tailwind,mysql,postgres" />
   </a>
 </p>
 <h3 align="left">Tools :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,arduino,linux,ps,ai,vscode,discord,visualstudio,wordpress,stackoverflow,aws,azure,bash,docker,figma,flutter,kafka" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,docker,sklearn,pytorch,anaconda,figma" />
   </a>
 </p>
 <br/>
@@ -48,27 +48,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishagi jeewantha" height="40" width="50" /></a>
 <a href="https://fb.com/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishagi jeewantha" height="40" width="50" /></a>
-<a href="https://instagram.com/nisha_gii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nisha_gii" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/nishagee jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nishagee jeewantha" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/nishagi jeewantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishagi jeewantha" height="40" width="50" /></a>
-<a href="https://www.hackerearth.com/nishagee jeewantha @jeewanthadehera1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nishagee jeewantha @jeewanthadehera1" height="40" width="50" /></a>
-</p>
 
-
-
-
-
-<!--
-**nishagii/nishagii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
