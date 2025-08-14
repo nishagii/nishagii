@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [Predictive Model for Real State Property Prices Prediction using Linear Regression](https://github.com/nishagii/Real-state-price-prediction-using-Machine-Learning)
 
+- ⚡ My personal site [nishagi.site](https://nishagi.netlify.app/)
+
 - 🌱 I’m currently learning **Data Science** , **Java**(**SpringBoot**), **AI**, **ML** and **REACT**
 
-- 📫 How to reach me **jeewanthadeherath04gmail.com**
-
-- ⚡ call me **nisha**
+- 📫 How to reach me **nishagi.official@gmail.com**
 
   <br>
   <hr>
