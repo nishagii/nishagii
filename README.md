@@ -19,11 +19,14 @@
 
   <br>
   <hr>
-<p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=nishagii&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    /> <br>
+<!--     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=nishagii&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /> <br> -->
 <!--     <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=nishagii&theme=gotham"/> -->
-    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishagii&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="adam-pw"/>
+<h3 align="left">Stats :</h3>
+<p align="center">
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishagii&layout=compact&langs_count=12"/></a>&nbsp
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=nishagii&count_private=true&show_icons=true"/></a>
+</p>
          <br>
 <hr>
 
