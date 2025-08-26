@@ -2,20 +2,20 @@
 , I'm Nishagi Jeewantha</h1>
 
 
-<h3 align="center">Passionated in Data Science and Machine Learning</h3>
+<h3 align="center">Passionated in Software Development and AI</h3>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br>
 
-- 🔭 I’m currently working on [Predictive Model for Real State Property Prices Prediction using Linear Regression](https://github.com/nishagii/Real-state-price-prediction-using-Machine-Learning)
-
-- ⚡ My personal site [nishagi.site](https://nishagi.netlify.app/)
-
-- 🌱 I’m currently learning **Data Science** , **Java**(**SpringBoot**), **AI**, **ML** and **REACT**
-
-- 📫 How to reach me **nishagi.official@gmail.com**
+### 🚀 About Me :
+- 💼 Building full-stack apps with **ASP.NET Core** & **Angular**  
+- ☁️ Proficient in **Azure Services**: App Service, Azure SQL, Storage, Functions, DevOps CI/CD  
+- 🔭 Currently contributing to projects with **.NET 8 Web APIs + Angular 20 frontends**  
+- 🌱 Also learning & applying: **Java Spring Boot**, **React**, **AI/ML systems**  
+- 🌐 Portfolio: [nishagi.site](https://nishagi.netlify.app)  
+- 📫 Reach me: **nishagi.official@gmail.com**
 
   <br>
   <hr>
