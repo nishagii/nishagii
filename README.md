@@ -25,7 +25,7 @@
 <h3 align="left">Stats :</h3>
 <p align="center">
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishagii&layout=compact&langs_count=12"/></a>&nbsp
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=nishagii&count_private=true&show_icons=true"/></a>
+  <a href=""> <img width="60%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=nishagii&show_icons=true"/></a>
 </p>
          <br>
 <hr>
