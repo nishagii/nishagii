@@ -10,10 +10,9 @@
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br>
 
 ### 🚀 About Me :
-- 💼 Building full-stack apps with **ASP.NET Core** & **Angular**  
+- 💼 Building and contributing to full-stack apps with **Java Spring Boot** & **React**  
 - ☁️ Proficient in **Azure Services**: App Service, Azure SQL, Storage, Functions, DevOps CI/CD  
-- 🔭 Currently contributing to projects with **.NET 8 Web APIs + Angular 20 frontends**  
-- 🌱 Also learning & applying: **Java Spring Boot**, **React**, **AI/ML systems**  
+- 🌱 Also learning & applying: **ASP.NET Core**, **Angular**, **AI/ML systems**  
 - 🌐 Portfolio: [nishagi.site](https://nishagi.netlify.app)  
 - 📫 Reach me: **nishagi.official@gmail.com**
 
