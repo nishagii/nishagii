@@ -15,8 +15,11 @@
 - 🌱 Also learning & applying: **ASP.NET Core**, **Angular**, **AI/ML systems**  
 - 🌐 Portfolio: [nishagi.site](https://nishagi.netlify.app)  
 - 📫 Reach me: **nishagi.official@gmail.com**
+ <hr>
+ <h3 align="left">Hacktoberfest Contribution Badges :</h3>
 
-  <br>
+  [![An image of @nishagii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishagii)](https://holopin.io/@nishagii)
+  
   <hr>
 <!--     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=nishagii&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     /> <br> -->
