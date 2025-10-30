@@ -16,7 +16,7 @@
 - 🌐 Portfolio: [nishagi.site](https://nishagi.netlify.app)  
 - 📫 Reach me: **nishagi.official@gmail.com**
  <hr>
- <h3 align="left">Hacktoberfest Contribution Badges :</h3>
+ <h3 align="left">Hacktoberfest 2025 Contribution Badges :</h3>
 
   [![An image of @nishagii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishagii)](https://holopin.io/@nishagii)
   
